@@ -1,0 +1,88 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+.boxOne{
+	width: 30%;
+	height:150px;
+	padding: 10px 10px;
+	background: cadetblue;
+	float: left;
+	margin: 10px;
+}
+.boxTwo{
+	width: 30%;
+	height:150px;
+	padding: 10px 10px;
+	background: dimgray;
+	float: left;
+	margin: 10px;
+}
+.boxThree{
+	width: 30%;
+	height:150px;
+	padding: 10px 10px;
+	background: cadetblue;
+	float: left;
+	margin: 10px;
+}
+
+.home-page-text{
+	text-align: left;
+	font-size: 25px;
+	font-family: 'Lato', Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 170px;
+	left: 30px;
+	height: 700px;
+	width: 100%;
+}
+.wordBox{
+	height: 800px;
+	width: 100%;
+}
+.littleBox{
+	height: 400px;
+	width: 30%;
+	background: deepskyblue;
+	float: left;
+	margin-left: 10px;
+}
+
+.bigBox{
+	height: 400px;
+	width: 67%;
+	background: darkslategray;
+	float: left;
+	margin-right: 10px;
+}
+.leftOne{
+	height:200px;
+	width: 60%;
+	background: lightslategrey;
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.second-to-left{
+	height: 200px;
+	width: 10%;
+	background: cadetblue;
+	float: left;
+	margin-top: 10px;
+}
+.third-to-left{
+	height:200px;
+	width:17%;
+	background: darkslategrey;
+	float:left;	
+	margin-top: 10px;
+	margin-bottom: 10px;	
+	
+}
+.last-bottom{
+	height: 200px;
+	width: 10%;
+	background: cadetblue;
+	float: left;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
